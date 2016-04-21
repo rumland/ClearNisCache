@@ -1,0 +1,1497 @@
+Apr 21 06:08:00:440 pu: SSL - init: mode=0, cipher=DEFAULT, context=OK
+Apr 21 06:08:00:440 pu: nimCharsetSet() - charset=
+======================================================
+Address: /ruw2k8r2uim_domain/ruw2k8r2uim_hub/ruw2k8r2uim/hub Request: gethubs
+======================================================
+hublist         PDS_PPDS      31786 
+ 0               PDS_PDS         409 
+  name            PDS_PCH          12 zebra-hub-4
+  domain          PDS_PCH          14 zebra-uim-dom
+  robotname       PDS_PCH          12 zebra-hub-4
+  addr            PDS_PCH          43 /zebra-uim-dom/zebra-hub-4/zebra-hub-4/hub                                                                                                                                                                                                                                                                  ~
+  ip              PDS_PCH          12 10.238.43.7
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240230
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 95
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 zebra-hub-4
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 1               PDS_PDS         439 
+  name            PDS_PCH          15 de50097sechub2
+  domain          PDS_PCH          19 de50067primary_dom
+  robotname       PDS_PCH          15 de50097sechub2
+  addr            PDS_PCH          54 /de50067primary_dom/de50097sechub2/de50097sechub2/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          13 10.238.41.78
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461239971
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 171
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1124
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          15 de50097sechub2
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 2               PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm7
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm7
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm7/kyu-imr-vm7/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.155
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240386
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm7
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 3               PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm2
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm2
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm2/kyu-imr-vm2/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.149
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240154
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm2
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 4               PDS_PDS         466 
+  name            PDS_PCH          20 bcimkosuse12x64hub3
+  domain          PDS_PCH          15 RHELPrimarydom
+  robotname       PDS_PCH          20 solarissudo_primhub
+  addr            PDS_PCH          60 /RHELPrimarydom/bcimkosuse12x64hub3/solarissudo_primhub/hub                                                                                                                                                                                                                                                 ~
+  ip              PDS_PCH          14 10.238.41.107
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240469
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 231
+  status          PDS_I             2 0
+  version         PDS_PCH          48 7.80-vosko [Build 7.80-vosko.3795, Oct 20 2015]                                                                                                                                                                                                                                                             ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          20 bcimkosuse12x64hub3
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 5               PDS_PDS         403 
+  name            PDS_PCH           8 TCrhel6
+  domain          PDS_PCH          18 TunnelPerformance
+  robotname       PDS_PCH           8 tcrhel6
+  addr            PDS_PCH          39 /TunnelPerformance/TCrhel6/tcrhel6/hub                                                                                                                                                                                                                                                                      ~
+  ip              PDS_PCH          14 10.238.40.160
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240343
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 737
+  status          PDS_I             2 0
+  version         PDS_PCH          42 7.80HF1 [Build 7.80HF1.3611, Jul 16 2015]                                                                                                                                                                                                                                                                   ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH           8 TCrhel6
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 6               PDS_PDS         423 
+  name            PDS_PCH          12 perfw2k8-16
+  domain          PDS_PCH          18 TunnelPerformance
+  robotname       PDS_PCH          12 perfw2k8-16
+  addr            PDS_PCH          47 /TunnelPerformance/perfw2k8-16/perfw2k8-16/hub                                                                                                                                                                                                                                                              ~
+  ip              PDS_PCH          14 10.238.41.195
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240462
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 737
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.72 [Build 7.72.3529, Jun  3 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 perfw2k8-16
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 7               PDS_PDS         449 
+  name            PDS_PCH          13 kyu-imr-vm17
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          20 rhel64-x64-template
+  addr            PDS_PCH          61 /kyu-imr-optimus_domain/kyu-imr-vm17/rhel64-x64-template/hub                                                                                                                                                                                                                                                ~
+  ip              PDS_PCH          14 10.238.42.164
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240463
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 kyu-imr-vm17
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 8               PDS_PDS         418 
+  name            PDS_PCH          11 mrc-w2k8-1
+  domain          PDS_PCH          11 carawaydom
+  robotname       PDS_PCH          19 mrc-w2k8-1-CAPITAL
+  addr            PDS_PCH          46 /carawaydom/mrc-w2k8-1/mrc-w2k8-1-CAPITAL/hub                                                                                                                                                                                                                                                               ~
+  ip              PDS_PCH          13 10.238.42.27
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461239895
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 55
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1124
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          11 mrc-w2k8-1
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 9               PDS_PDS         436 
+  name            PDS_PCH          15 tertiarysechub
+  domain          PDS_PCH          19 de50067primary_dom
+  robotname       PDS_PCH          15 tertiarysechub
+  addr            PDS_PCH          54 /de50067primary_dom/tertiarysechub/tertiarysechub/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          13 10.238.43.19
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240456
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 171
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3525, Jun  1 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          15 tertiarysechub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 10              PDS_PDS         435 
+  name            PDS_PCH          13 kyu-imr-vm12
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          13 kyu-imr-vm12
+  addr            PDS_PCH          54 /kyu-imr-optimus_domain/kyu-imr-vm12/kyu-imr-vm12/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          14 10.238.42.166
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240007
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 kyu-imr-vm12
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 11              PDS_PDS         446 
+  name            PDS_PCH          18 de50097legacyhub3
+  domain          PDS_PCH          19 de50067primary_dom
+  robotname       PDS_PCH          16 de50097legacyhu
+  addr            PDS_PCH          58 /de50067primary_dom/de50097legacyhub3/de50097legacyhu/hub                                                                                                                                                                                                                                                   ~
+  ip              PDS_PCH          12 10.238.42.3
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240082
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 171
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          18 de50097legacyhub3
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 12              PDS_PDS         429 
+  name            PDS_PCH          13 ruw2k8r2snmp
+  domain          PDS_PCH          19 ruw2k8r2uim_domain
+  robotname       PDS_PCH          13 ruw2k8r2snmp
+  addr            PDS_PCH          50 /ruw2k8r2uim_domain/ruw2k8r2snmp/ruw2k8r2snmp/hub                                                                                                                                                                                                                                                           ~
+  ip              PDS_PCH          13 10.238.43.94
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240262
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 176
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 ruw2k8r2snmp
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 13              PDS_PDS         434 
+  name            PDS_PCH          12 bnpphubwin1
+  domain          PDS_PCH          22 bcimkw2k8UIM82_domain
+  robotname       PDS_PCH          12 bnpphubsim1
+  addr            PDS_PCH          51 /bcimkw2k8UIM82_domain/bnpphubwin1/bnpphubsim1/hub                                                                                                                                                                                                                                                          ~
+  ip              PDS_PCH          13 10.238.43.51
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240016
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 27
+  status          PDS_I             2 0
+  version         PDS_PCH          44 7.80HF10 [Build 7.80HF10.3976, Mar 13 2016]                                                                                                                                                                                                                                                                 ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 bnpphubwin1
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 14              PDS_PDS         428 
+  name            PDS_PCH          17 VantiveSecondary
+  domain          PDS_PCH          10 Vantivdom
+  robotname       PDS_PCH          17 vantivesecondary
+  addr            PDS_PCH          49 /Vantivdom/VantiveSecondary/vantivesecondary/hub                                                                                                                                                                                                                                                            ~
+  ip              PDS_PCH          14 10.238.43.115
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240462
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 31
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          17 VantiveSecondary
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 15              PDS_PDS         476 
+  name            PDS_PCH          21 bcimkw2k12UIM835_hub
+  domain          PDS_PCH          24 bcimkw2k12UIM835_domain
+  robotname       PDS_PCH          17 bcimkw2k12UIM835
+  addr            PDS_PCH          67 /bcimkw2k12UIM835_domain/bcimkw2k12UIM835_hub/bcimkw2k12UIM835/hub                                                                                                                                                                                                                                          ~
+  ip              PDS_PCH          13 10.238.42.34
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240473
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 152
+  status          PDS_I             2 0
+  version         PDS_PCH          44 7.80-jh2 [Build 7.80-jh2.3840, Nov  9 2015]                                                                                                                                                                                                                                                                 ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 1
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          21 bcimkw2k12UIM835_hub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 16              PDS_PDS         384 
+  name            PDS_PCH           9 JeffHub2
+  domain          PDS_PCH          11 JeffVM1dom
+  robotname       PDS_PCH           8 jeffvm3
+  addr            PDS_PCH          33 /JeffVM1dom/JeffHub2/jeffvm3/hub                                                                                                                                                                                                                                                                            ~
+  ip              PDS_PCH          13 10.238.43.68
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240053
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 53
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.61 [Build 7.61.2294, Aug 13 2014]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH           9 JeffHub2
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 17              PDS_PDS         476 
+  name            PDS_PCH          21 bcimksles12x64robot4
+  domain          PDS_PCH          24 bcimkw2k12UIM835_domain
+  robotname       PDS_PCH          21 bcimksles12x64robot4
+  addr            PDS_PCH          71 /bcimkw2k12UIM835_domain/bcimksles12x64robot4/bcimksles12x64robot4/hub                                                                                                                                                                                                                                      ~
+  ip              PDS_PCH          13 10.238.42.44
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240470
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 146
+  status          PDS_I             2 0
+  version         PDS_PCH          36 8.00 [Build 8.00.5248, Oct 14 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          21 bcimksles12x64robot4
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 18              PDS_PDS         455 
+  name            PDS_PCH          18 w2k-saida-2ry_hub
+  domain          PDS_PCH          25 w2k-saida-primary_domain
+  robotname       PDS_PCH          14 w2k-saida-2ry
+  addr            PDS_PCH          62 /w2k-saida-primary_domain/w2k-saida-2ry_hub/w2k-saida-2ry/hub                                                                                                                                                                                                                                               ~
+  ip              PDS_PCH          13 10.238.43.66
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240194
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 131
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 1
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          18 w2k-saida-2ry_hub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 19              PDS_PDS         446 
+  name            PDS_PCH          16 bcimkldaptestwi
+  domain          PDS_PCH          18 WindowsPrimarydom
+  robotname       PDS_PCH          16 bcimkldaptestwi
+  addr            PDS_PCH          55 /WindowsPrimarydom/bcimkldaptestwi/bcimkldaptestwi/hub                                                                                                                                                                                                                                                      ~
+  ip              PDS_PCH          14 10.238.41.191
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240025
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 116
+  status          PDS_I             2 0
+  version         PDS_PCH          42 7.80HF7 [Build 7.80HF7.3715, Sep 29 2015]                                                                                                                                                                                                                                                                   ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          16 bcimkldaptestwi
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 20              PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm8
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm8
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm8/kyu-imr-vm8/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.156
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240148
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm8
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 21              PDS_PDS         462 
+  name            PDS_PCH          18 WindowsPrimaryhub
+  domain          PDS_PCH          18 WindowsPrimarydom
+  robotname       PDS_PCH          16 win-sd2ggptungo
+  addr            PDS_PCH          57 /WindowsPrimarydom/WindowsPrimaryhub/win-sd2ggptungo/hub                                                                                                                                                                                                                                                    ~
+  ip              PDS_PCH          13 10.238.40.34
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240269
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 116
+  status          PDS_I             2 0
+  version         PDS_PCH          50 7.72-merge2 [Build 7.72-merge2.3644, Jul 30 2015]                                                                                                                                                                                                                                                           ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1139
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          18 WindowsPrimaryhub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 22              PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm3
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm3
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm3/kyu-imr-vm3/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.150
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240307
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm3
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 23              PDS_PDS         455 
+  name            PDS_PCH          17 bci-ci-sec-rhel7
+  domain          PDS_PCH          24 bci-ci-sec-rhel6_domain
+  robotname       PDS_PCH          17 bci-ci-sec-rhel7
+  addr            PDS_PCH          63 /bci-ci-sec-rhel6_domain/bci-ci-sec-rhel7/bci-ci-sec-rhel7/hub                                                                                                                                                                                                                                              ~
+  ip              PDS_PCH          13 10.238.42.62
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240262
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 27
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          17 bci-ci-sec-rhel7
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 24              PDS_PDS         492 
+  name            PDS_PCH          26 testNewHubToSecurePrimary
+  domain          PDS_PCH          19 de50067primary_dom
+  robotname       PDS_PCH          26 testnewhubtosecureprimary
+  addr            PDS_PCH          76 /de50067primary_dom/testNewHubToSecurePrimary/testnewhubtosecureprimary/hub                                                                                                                                                                                                                                 ~
+  ip              PDS_PCH          14 10.238.40.130
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240453
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 171
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          26 testNewHubToSecurePrimary
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 25              PDS_PDS         423 
+  name            PDS_PCH          12 perfw2k8-17
+  domain          PDS_PCH          18 TunnelPerformance
+  robotname       PDS_PCH          12 perfw2k8-17
+  addr            PDS_PCH          47 /TunnelPerformance/perfw2k8-17/perfw2k8-17/hub                                                                                                                                                                                                                                                              ~
+  ip              PDS_PCH          14 10.238.41.196
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240464
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 737
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.72 [Build 7.72.3529, Jun  3 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 perfw2k8-17
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 26              PDS_PDS         419 
+  name            PDS_PCH          12 perfw2k8-12
+  domain          PDS_PCH          18 TunnelPerformance
+  robotname       PDS_PCH          12 perfw2k8-12
+  addr            PDS_PCH          47 /TunnelPerformance/perfw2k8-12/perfw2k8-12/hub                                                                                                                                                                                                                                                              ~
+  ip              PDS_PCH          13 10.238.41.69
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240456
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 737
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.72 [Build 7.72.3529, Jun  3 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 1
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 perfw2k8-12
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 27              PDS_PDS         436 
+  name            PDS_PCH          13 kyu-imr-vm13
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          13 kyu-imr-vm13
+  addr            PDS_PCH          54 /kyu-imr-optimus_domain/kyu-imr-vm13/kyu-imr-vm13/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          14 10.238.42.160
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461239949
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          14 outsideOrigin
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 28              PDS_PDS         429 
+  name            PDS_PCH          15 AC2Primary_hub
+  domain          PDS_PCH          18 AC2Primary_domain
+  robotname       PDS_PCH          11 AC2Primary
+  addr            PDS_PCH          49 /AC2Primary_domain/AC2Primary_hub/AC2Primary/hub                                                                                                                                                                                                                                                            ~
+  ip              PDS_PCH          14 10.238.42.174
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240480
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 69
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1124
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          15 AC2Primary_hub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 29              PDS_PDS         438 
+  name            PDS_PCH          12 bnpphubwin2
+  domain          PDS_PCH          22 bcimkw2k8UIM82_domain
+  robotname       PDS_PCH          12 bnpphubsim2
+  addr            PDS_PCH          51 /bcimkw2k8UIM82_domain/bnpphubwin2/bnpphubsim2/hub                                                                                                                                                                                                                                                          ~
+  ip              PDS_PCH          14 10.238.43.104
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240375
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 27
+  status          PDS_I             2 0
+  version         PDS_PCH          44 7.80HF10 [Build 7.80HF10.3976, Mar 13 2016]                                                                                                                                                                                                                                                                 ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1124
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 bnpphubwin2
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 30              PDS_PDS         434 
+  name            PDS_PCH          16 ruw2k8r2uim_hub
+  domain          PDS_PCH          19 ruw2k8r2uim_domain
+  robotname       PDS_PCH          12 ruw2k8r2uim
+  addr            PDS_PCH          52 /ruw2k8r2uim_domain/ruw2k8r2uim_hub/ruw2k8r2uim/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.236
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461185640
+  license         PDS_I             2 1
+  temp            PDS_I             2 0
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 176
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          16 ruw2k8r2uim_hub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 1
+ 31              PDS_PDS         416 
+  name            PDS_PCH          11 de50067-im
+  domain          PDS_PCH          19 de50067primary_dom
+  robotname       PDS_PCH          11 de50067-im
+  addr            PDS_PCH          46 /de50067primary_dom/de50067-im/de50067-im/hub                                                                                                                                                                                                                                                               ~
+  ip              PDS_PCH          13 10.238.43.37
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240472
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 171
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          11 de50067-im
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 32              PDS_PDS         442 
+  name            PDS_PCH          16 mbonnetw2k8sa-0
+  domain          PDS_PCH          19 mbonnetw2k8sanddom
+  robotname       PDS_PCH          16 mbonnetw2k8sa-0
+  addr            PDS_PCH          56 /mbonnetw2k8sanddom/mbonnetw2k8sa-0/mbonnetw2k8sa-0/hub                                                                                                                                                                                                                                                     ~
+  ip              PDS_PCH          14 10.238.40.122
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240323
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 924
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.71 [Build 7.71.3186, Apr  2 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          16 mbonnetw2k8sa-0
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 33              PDS_PDS         453 
+  name            PDS_PCH          16 bci-ci-sec-win2
+  domain          PDS_PCH          24 bci-ci-sec-rhel6_domain
+  robotname       PDS_PCH          16 bci-ci-sec-win2
+  addr            PDS_PCH          61 /bci-ci-sec-rhel6_domain/bci-ci-sec-win2/bci-ci-sec-win2/hub                                                                                                                                                                                                                                                ~
+  ip              PDS_PCH          13 10.238.42.67
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461239997
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 27
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          16 bci-ci-sec-win2
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 34              PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm9
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm9
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm9/kyu-imr-vm9/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.157
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240077
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm9
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 35              PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm4
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm4
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm4/kyu-imr-vm4/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.152
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240161
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm4
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 36              PDS_PDS         423 
+  name            PDS_PCH          12 perfw2k8-13
+  domain          PDS_PCH          18 TunnelPerformance
+  robotname       PDS_PCH          12 perfw2k8-13
+  addr            PDS_PCH          47 /TunnelPerformance/perfw2k8-13/perfw2k8-13/hub                                                                                                                                                                                                                                                              ~
+  ip              PDS_PCH          14 10.238.41.193
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240466
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 737
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.72 [Build 7.72.3529, Jun  3 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 perfw2k8-13
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 37              PDS_PDS         388 
+  name            PDS_PCH           9 hub-4-80
+  domain          PDS_PCH          12 bci-uim-dom
+  robotname       PDS_PCH           9 hub-4-80
+  addr            PDS_PCH          35 /bci-uim-dom/hub-4-80/hub-4-80/hub                                                                                                                                                                                                                                                                          ~
+  ip              PDS_PCH          13 10.238.40.97
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240394
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 20
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH           9 hub-4-80
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 38              PDS_PDS         435 
+  name            PDS_PCH          13 kyu-imr-vm14
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          13 kyu-imr-vm14
+  addr            PDS_PCH          54 /kyu-imr-optimus_domain/kyu-imr-vm14/kyu-imr-vm14/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          14 10.238.42.162
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240201
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 kyu-imr-vm14
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 39              PDS_PDS         461 
+  name            PDS_PCH          20 bcimkcentos7x64hub2
+  domain          PDS_PCH          15 RHELPrimarydom
+  robotname       PDS_PCH          21 centos7-x64-template
+  addr            PDS_PCH          61 /RHELPrimarydom/bcimkcentos7x64hub2/centos7-x64-template/hub                                                                                                                                                                                                                                                ~
+  ip              PDS_PCH          13 10.238.41.47
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240479
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 231
+  status          PDS_I             2 0
+  version         PDS_PCH          42 7.80HF1 [Build 7.80HF1.3611, Jul 16 2015]                                                                                                                                                                                                                                                                   ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          20 bcimkcentos7x64hub2
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 40              PDS_PDS         423 
+  name            PDS_PCH          13 AC2Secondary
+  domain          PDS_PCH          18 AC2Primary_domain
+  robotname       PDS_PCH          12 acsecondary
+  addr            PDS_PCH          48 /AC2Primary_domain/AC2Secondary/acsecondary/hub                                                                                                                                                                                                                                                             ~
+  ip              PDS_PCH          13 10.238.43.87
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240451
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 1
+  sec_ver         PDS_I             2 0
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1124
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 AC2Secondary
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 41              PDS_PDS         427 
+  name            PDS_PCH          14 kyu-pbm-hub05
+  domain          PDS_PCH          15 kyu-pbm-nmsdom
+  robotname       PDS_PCH          14 kyu-pbm-hub05
+  addr            PDS_PCH          48 /kyu-pbm-nmsdom/kyu-pbm-hub05/kyu-pbm-hub05/hub                                                                                                                                                                                                                                                             ~
+  ip              PDS_PCH          14 10.238.41.165
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240094
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 838
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.70 [Build 7.70.3066, Mar 10 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          14 kyu-pbm-hub05
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 42              PDS_PDS         422 
+  name            PDS_PCH          15 RHELPrimaryhub
+  domain          PDS_PCH          15 RHELPrimarydom
+  robotname       PDS_PCH          12 RHELPrimary
+  addr            PDS_PCH          47 /RHELPrimarydom/RHELPrimaryhub/RHELPrimary/hub                                                                                                                                                                                                                                                              ~
+  ip              PDS_PCH          13 10.238.40.30
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240464
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 231
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.90 [Build 7.90.3693, Sep 18 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          15 RHELPrimaryhub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 43              PDS_PDS         449 
+  name            PDS_PCH          19 de50067primary_hub
+  domain          PDS_PCH          19 de50067primary_dom
+  robotname       PDS_PCH          15 de50067primary
+  addr            PDS_PCH          58 /de50067primary_dom/de50067primary_hub/de50067primary/hub                                                                                                                                                                                                                                                   ~
+  ip              PDS_PCH          14 10.238.42.253
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240466
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 171
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 1
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          19 de50067primary_hub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 44              PDS_PDS         448 
+  name            PDS_PCH          18 bcimkrhel7x64hub3
+  domain          PDS_PCH          18 WindowsPrimarydom
+  robotname       PDS_PCH          18 bcimkrhel7x64hub3
+  addr            PDS_PCH          59 /WindowsPrimarydom/bcimkrhel7x64hub3/bcimkrhel7x64hub3/hub                                                                                                                                                                                                                                                  ~
+  ip              PDS_PCH          12 10.238.41.4
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240114
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 116
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3523, May 30 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          18 bcimkrhel7x64hub3
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 45              PDS_PDS         448 
+  name            PDS_PCH          16 eason-ubu14-x64
+  domain          PDS_PCH          22 eason-w2k12r2-x64-dom
+  robotname       PDS_PCH          16 eason-ubu14-x64
+  addr            PDS_PCH          59 /eason-w2k12r2-x64-dom/eason-ubu14-x64/eason-ubu14-x64/hub                                                                                                                                                                                                                                                  ~
+  ip              PDS_PCH          13 10.238.41.30
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240372
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 132
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             3 23
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          16 eason-ubu14-x64
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 46              PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm5
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm5
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm5/kyu-imr-vm5/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.153
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240131
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm5
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 47              PDS_PDS         443 
+  name            PDS_PCH          18 bcimkrhel7x64hub1
+  domain          PDS_PCH          15 RHELPrimarydom
+  robotname       PDS_PCH          18 bcimkrhel7x64hub1
+  addr            PDS_PCH          56 /RHELPrimarydom/bcimkrhel7x64hub1/bcimkrhel7x64hub1/hub                                                                                                                                                                                                                                                     ~
+  ip              PDS_PCH          13 10.238.40.89
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240471
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 231
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          18 bcimkrhel7x64hub1
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 48              PDS_PDS         460 
+  name            PDS_PCH          19 bcimkrhel65x64hub1
+  domain          PDS_PCH          15 RHELPrimarydom
+  robotname       PDS_PCH          19 bcimkrhel65x64hub1
+  addr            PDS_PCH          58 /RHELPrimarydom/bcimkrhel65x64hub1/bcimkrhel65x64hub1/hub                                                                                                                                                                                                                                                   ~
+  ip              PDS_PCH          13 10.238.40.78
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240458
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 231
+  status          PDS_I             2 0
+  version         PDS_PCH          48 7.80-vosko [Build 7.80-vosko.3795, Oct 20 2015]                                                                                                                                                                                                                                                             ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          19 bcimkrhel65x64hub1
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 49              PDS_PDS         420 
+  name            PDS_PCH          12 perfw2k8-19
+  domain          PDS_PCH          18 TunnelPerformance
+  robotname       PDS_PCH          12 perfw2k8-19
+  addr            PDS_PCH          47 /TunnelPerformance/perfw2k8-19/perfw2k8-19/hub                                                                                                                                                                                                                                                              ~
+  ip              PDS_PCH          14 10.238.41.209
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240454
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 737
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.72 [Build 7.72.3529, Jun  3 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 perfw2k8-19
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 50              PDS_PDS         433 
+  name            PDS_PCH          12 kyu-imr-ump
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-ump
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-ump/kyu-imr-ump/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.145
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240226
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-ump
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 51              PDS_PDS         441 
+  name            PDS_PCH          18 GraemePrimary_hub
+  domain          PDS_PCH          18 GraemePrimary_dom
+  robotname       PDS_PCH          14 GraemePrimary
+  addr            PDS_PCH          55 /GraemePrimary_dom/GraemePrimary_hub/GraemePrimary/hub                                                                                                                                                                                                                                                      ~
+  ip              PDS_PCH          14 10.238.42.217
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240460
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 20
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          18 GraemePrimary_hub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 52              PDS_PDS         439 
+  name            PDS_PCH          16 ac2secondaryrob
+  domain          PDS_PCH          18 AC2Primary_domain
+  robotname       PDS_PCH          16 ac2secondaryrob
+  addr            PDS_PCH          55 /AC2Primary_domain/ac2secondaryrob/ac2secondaryrob/hub                                                                                                                                                                                                                                                      ~
+  ip              PDS_PCH          14 10.238.42.208
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461239885
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 69
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 1
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          16 ac2secondaryrob
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 53              PDS_PDS         435 
+  name            PDS_PCH          13 kyu-imr-vm15
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          13 kyu-imr-vm15
+  addr            PDS_PCH          54 /kyu-imr-optimus_domain/kyu-imr-vm15/kyu-imr-vm15/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          14 10.238.42.165
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240400
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 kyu-imr-vm15
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 54              PDS_PDS         435 
+  name            PDS_PCH          13 kyu-imr-vm10
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          13 kyu-imr-vm10
+  addr            PDS_PCH          54 /kyu-imr-optimus_domain/kyu-imr-vm10/kyu-imr-vm10/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          14 10.238.42.158
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240167
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 kyu-imr-vm10
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 55              PDS_PDS         449 
+  name            PDS_PCH          19 bcimksles12x64hub2
+  domain          PDS_PCH          15 RHELPrimarydom
+  robotname       PDS_PCH          19 bcimksles12x64hub2
+  addr            PDS_PCH          58 /RHELPrimarydom/bcimksles12x64hub2/bcimksles12x64hub2/hub                                                                                                                                                                                                                                                   ~
+  ip              PDS_PCH          14 10.238.41.106
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240479
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 231
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          19 bcimksles12x64hub2
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 56              PDS_PDS         460 
+  name            PDS_PCH          18 de50097legacyhub1
+  domain          PDS_PCH          19 de50067primary_dom
+  robotname       PDS_PCH          18 de50097legacyhub1
+  addr            PDS_PCH          60 /de50067primary_dom/de50097legacyhub1/de50097legacyhub1/hub                                                                                                                                                                                                                                                 ~
+  ip              PDS_PCH          14 10.238.41.185
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240456
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 171
+  status          PDS_I             2 0
+  version         PDS_PCH          44 7.80HF10 [Build 7.80HF10.3976, Mar 13 2016]                                                                                                                                                                                                                                                                 ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          18 de50097legacyhub1
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 57              PDS_PDS         452 
+  name            PDS_PCH          18 de50097legacyhub2
+  domain          PDS_PCH          19 de50067primary_dom
+  robotname       PDS_PCH          18 de50097legacyhub2
+  addr            PDS_PCH          60 /de50067primary_dom/de50097legacyhub2/de50097legacyhub2/hub                                                                                                                                                                                                                                                 ~
+  ip              PDS_PCH          14 10.238.41.248
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240463
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 171
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          18 de50097legacyhub2
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 58              PDS_PDS         483 
+  name            PDS_PCH          23 bci-80-test1-rhel1_hub
+  domain          PDS_PCH          26 bci-80-test1-rhel1_domain
+  robotname       PDS_PCH          19 bci-80-test1-rhel1
+  addr            PDS_PCH          73 /bci-80-test1-rhel1_domain/bci-80-test1-rhel1_hub/bci-80-test1-rhel1/hub                                                                                                                                                                                                                                    ~
+  ip              PDS_PCH          14 10.238.42.137
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240198
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 43
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             3 50
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          23 bci-80-test1-rhel1_hub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 59              PDS_PDS         461 
+  name            PDS_PCH          21 bcimkcentos64x64hub1
+  domain          PDS_PCH          15 RHELPrimarydom
+  robotname       PDS_PCH          21 bcimkcentos64x64hub1
+  addr            PDS_PCH          62 /RHELPrimarydom/bcimkcentos64x64hub1/bcimkcentos64x64hub1/hub                                                                                                                                                                                                                                               ~
+  ip              PDS_PCH          13 10.238.40.85
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240475
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 231
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1124
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          21 bcimkcentos64x64hub1
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 60              PDS_PDS         451 
+  name            PDS_PCH          16 bci-ci-sec-cen5
+  domain          PDS_PCH          24 bci-ci-sec-rhel6_domain
+  robotname       PDS_PCH          16 bci-ci-sec-cen5
+  addr            PDS_PCH          61 /bci-ci-sec-rhel6_domain/bci-ci-sec-cen5/bci-ci-sec-cen5/hub                                                                                                                                                                                                                                                ~
+  ip              PDS_PCH          14 10.238.42.178
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240287
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 27
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          16 bci-ci-sec-cen5
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 61              PDS_PDS         427 
+  name            PDS_PCH          14 kyu-pbm-hub01
+  domain          PDS_PCH          15 kyu-pbm-nmsdom
+  robotname       PDS_PCH          14 kyu-pbm-hub01
+  addr            PDS_PCH          48 /kyu-pbm-nmsdom/kyu-pbm-hub01/kyu-pbm-hub01/hub                                                                                                                                                                                                                                                             ~
+  ip              PDS_PCH          14 10.238.40.142
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240260
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 838
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.63 [Build 7.63.2771, Dec 10 2014]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          14 kyu-pbm-hub01
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 62              PDS_PDS         444 
+  name            PDS_PCH          15 w2k3-sp1-32bit
+  domain          PDS_PCH          23 WIN-SD2GGPTUNGO_domain
+  robotname       PDS_PCH          15 w2k3-sp1-32bit
+  addr            PDS_PCH          58 /WIN-SD2GGPTUNGO_domain/w2k3-sp1-32bit/w2k3-sp1-32bit/hub                                                                                                                                                                                                                                                   ~
+  ip              PDS_PCH          13 10.238.40.50
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240078
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 157
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          15 w2k3-sp1-32bit
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 63              PDS_PDS         477 
+  name            PDS_PCH          25 uimsaas-hubconc2-dev_hub
+  domain          PDS_PCH          19 uimsaas-dev_domain
+  robotname       PDS_PCH          21 uimsaas-hubconc2-dev
+  addr            PDS_PCH          70 /uimsaas-dev_domain/uimsaas-hubconc2-dev_hub/uimsaas-hubconc2-dev/hub                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          14 10.238.40.103
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240274
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             2 3
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 7
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          25 uimsaas-hubconc2-dev_hub
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 64              PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm6
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm6
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm6/kyu-imr-vm6/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.154
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240139
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm6
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 65              PDS_PDS         389 
+  name            PDS_PCH           9 hub-3-80
+  domain          PDS_PCH          12 bci-uim-dom
+  robotname       PDS_PCH           9 hub-3-80
+  addr            PDS_PCH          35 /bci-uim-dom/hub-3-80/hub-3-80/hub                                                                                                                                                                                                                                                                          ~
+  ip              PDS_PCH          14 10.238.41.154
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240395
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             3 20
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.80 [Build 7.80.3556, Jun 16 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH           9 hub-3-80
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 66              PDS_PDS         430 
+  name            PDS_PCH          12 kyu-imr-vm1
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          12 kyu-imr-vm1
+  addr            PDS_PCH          52 /kyu-imr-optimus_domain/kyu-imr-vm1/kyu-imr-vm1/hub                                                                                                                                                                                                                                                         ~
+  ip              PDS_PCH          14 10.238.42.144
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240336
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 kyu-imr-vm1
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 67              PDS_PDS         449 
+  name            PDS_PCH          19 bcimkw2k8r2x64hub1
+  domain          PDS_PCH          18 WindowsPrimarydom
+  robotname       PDS_PCH          16 bcimkw2k8r2x64h
+  addr            PDS_PCH          58 /WindowsPrimarydom/bcimkw2k8r2x64hub1/bcimkw2k8r2x64h/hub                                                                                                                                                                                                                                                   ~
+  ip              PDS_PCH          13 169.254.2.51
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240475
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 1
+  sec_ver         PDS_I             2 0
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          19 bcimkw2k8r2x64hub1
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 68              PDS_PDS         423 
+  name            PDS_PCH          12 perfw2k8-15
+  domain          PDS_PCH          18 TunnelPerformance
+  robotname       PDS_PCH          12 perfw2k8-15
+  addr            PDS_PCH          47 /TunnelPerformance/perfw2k8-15/perfw2k8-15/hub                                                                                                                                                                                                                                                              ~
+  ip              PDS_PCH          14 10.238.41.194
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240470
+  license         PDS_I             2 1
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 737
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.72 [Build 7.72.3529, Jun  3 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             5 1007
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          12 perfw2k8-15
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 69              PDS_PDS         435 
+  name            PDS_PCH          13 kyu-imr-vm16
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          13 kyu-imr-vm16
+  addr            PDS_PCH          54 /kyu-imr-optimus_domain/kyu-imr-vm16/kyu-imr-vm16/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          14 10.238.42.163
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240330
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 kyu-imr-vm16
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2
+ 70              PDS_PDS         435 
+  name            PDS_PCH          13 kyu-imr-vm11
+  domain          PDS_PCH          23 kyu-imr-optimus_domain
+  robotname       PDS_PCH          13 kyu-imr-vm11
+  addr            PDS_PCH          54 /kyu-imr-optimus_domain/kyu-imr-vm11/kyu-imr-vm11/hub                                                                                                                                                                                                                                                       ~
+  ip              PDS_PCH          14 10.238.42.161
+  port            PDS_I             6 48002
+  last            PDS_I            11 1461240241
+  license         PDS_I             2 0
+  temp            PDS_I             2 1
+  sec_on          PDS_I             2 2
+  sec_ver         PDS_I             4 308
+  status          PDS_I             2 0
+  version         PDS_PCH          36 7.81 [Build 7.81.3668, Aug 26 2015]                                                                                                                                                                                                                                                                         ~
+  proximity       PDS_I             2 0
+  epoc_skew       PDS_I             2 0
+  synch           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  origin          PDS_PCH          13 kyu-imr-vm11
+  req_tused       PDS_I             2 0
+  type            PDS_I             2 2

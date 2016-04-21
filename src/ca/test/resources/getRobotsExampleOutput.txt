@@ -1,0 +1,32 @@
+Apr 21 06:43:41:378 pu: SSL - init: mode=0, cipher=DEFAULT, context=OK
+Apr 21 06:43:41:378 pu: nimCharsetSet() - charset=
+======================================================
+Address: /ruw2k8r2uim_domain/ruw2k8r2uim_hub/ruw2k8r2uim/hub Request: getrobots
+======================================================
+domain          PDS_PCH          19 ruw2k8r2uim_domain
+robotlist       PDS_PPDS        675 
+ 0               PDS_PDS         666 
+  name            PDS_PCH          12 ruw2k8r2uim
+  addr            PDS_PCH          48 /ruw2k8r2uim_domain/ruw2k8r2uim_hub/ruw2k8r2uim                                                                                                                                                                                                                                                             ~
+  origin          PDS_PCH          16 ruw2k8r2uim_hub
+  port            PDS_I             6 48000
+  ip              PDS_PCH          14 10.238.42.236
+  version         PDS_PCH          36 7.80 [Build 7.80.3132, Jun  1 2015]                                                                                                                                                                                                                                                                         ~
+  flags           PDS_I             2 1
+  ssl_mode        PDS_I             2 0
+  license         PDS_I             2 1
+  autoremove      PDS_I             2 0
+  heartbeat       PDS_I             4 900
+  created         PDS_I            11 1461082286
+  lastupdate      PDS_I            11 1461242266
+  last_change     PDS_I            11 1461212562
+  last_inst_change PDS_I            11 1461188588
+  device_id       PDS_PCH          34 D80F0AD8E14D49242918FF74F42BA0D67                                                                                                                                                                                                                                                                           ~
+  metric_id       PDS_PCH          34 M472981DB4DF57BD7323F73FD7F6191B6                                                                                                                                                                                                                                                                           ~
+  os_major        PDS_PCH           8 Windows
+  os_minor        PDS_PCH          50 Windows Server 2008 R2 Enterprise Edition, 64-bit                                                                                                                                                                                                                                                           ~
+  os_description  PDS_PCH          26 Service Pack 1 Build 7601
+  os_user1        PDS_PCH           1 
+  os_user2        PDS_PCH           1 
+  offline         PDS_I             2 0
+  status          PDS_I             2 0
